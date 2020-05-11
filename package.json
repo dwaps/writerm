@@ -1,0 +1,35 @@
+{
+  "name": "writerm",
+  "version": "0.0.0-beta.1",
+  "description": "[BETA] Write text into terminal with variable speed.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dwaps/writerm"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": "index.js",
+  "keywords": [
+    "text to terminal",
+    "show text",
+    "txt",
+    "cli",
+    "writing into terminal",
+    "michael",
+    "cornillon",
+    "michael cornillon",
+    "ort"
+  ],
+  "author": {
+    "name": "Michael Cornillon - DWAPS Formation",
+    "email": "ei.dwaps@gmail.com",
+    "url": "https://dwaps.fr"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "slider-for-trainer": "^0.0.0-beta.0"
+  }
+}

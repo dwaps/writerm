@@ -1,0 +1,35 @@
+30
+
+▶︎ Bienvenue ! ◀︎
+
+Pour utiliser `writerm`, il suffit d'écrire
+quelques lignes dans un fichier,
+dans n'importe quel repértoire.
+
+Ensuite, tu peux lancer la commande `writerm <ton-fichier>`:
+le contenu sera lu à la vitesse désirée.
+
+Pour régler la vitesse, 3 options possibles:
+  - Ajouter une variable d'environment SPEED (ms) au processus
+    Ex: `SPEED=30 writerm my-file.txt`
+  - Ecrire la vitesse en ms directement dans le fichier,
+    à la toute première ligne, en prenant soin de laisser
+    une ligne vide juste en dessous.
+  - Accepter la vitesse par défaut (50ms).
+
+
+A bientôt ! :)
+
+PS: Si tu lances la commande `writerm`sans argument, tu obtiendras cette aide.
+
+   _     _
+  (c).-.(c)
+   / ._. \
+ __\( Y )/__
+(_.-/'-'\-._)
+   || D ||
+ _.' `-' '._
+(.-./`-'\.-.)
+ `-'     `-'
+
+
